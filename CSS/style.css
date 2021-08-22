@@ -14,7 +14,7 @@ section {
 }
 
 .one{
-    background: #9ade6e;
+    background: #0c0d00;
     
 }
 
@@ -54,10 +54,15 @@ button{
     padding:1rem 3rem;
     font-size:1rem;
     border:none;
-    background: #f5cd03;
+    background: #ffff;
     color: #0c0d0d;
     cursor: pointer;
     border-radius: 50px;
+}
+
+button:hover{
+    background: red;
+    color: #ffff;
 }
 
 .text{
